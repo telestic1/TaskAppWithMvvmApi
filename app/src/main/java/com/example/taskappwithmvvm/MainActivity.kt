@@ -10,3 +10,4 @@ class MainActivity : AppCompatActivity() {
     }
 }
 //initial  commit
+// 2nnd code from main
